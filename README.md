@@ -1,4 +1,5 @@
-Feito por PedroHBB7,
+Feito por :
+PedroHBB7 Pedro Henrique Bonfante Bueno 3 Semestre Eng. Computação
 
 Necessario xampp para armarezanamento de banco dedados internos no computador, utilize MySQL WorkBench para criar e gerenciar os bancos de dados. Aqui a seguir o código necessario para a configuração do MySQL Workbench: -- Criar o banco de dados CREATE DATABASE IF NOT EXISTS todolist; USE todolist;
 
